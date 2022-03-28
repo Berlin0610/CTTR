@@ -10,6 +10,8 @@ Recently, learning-based video coding techniques have attracted substantial atte
 
 ## Example Results (Similar Bitrate)
 
+### For better visual comparison, please download the videos (mp4) from the "video" file.
+
 ### Example 1
 
 ![show](https://github.com/Berlin0610/CFTE2.0/blob/main/video/1.gif) 
