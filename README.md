@@ -12,21 +12,19 @@ Recently, learning-based video coding techniques have attracted substantial atte
 
 ### Example 1
 
-![show](https://github.com/Berlin0610/CFTE2.0/video/1.gif) 
+![show](https://github.com/Berlin0610/CFTE2.0/blob/main/video/1.gif) 
 
 
 ### Example 2
 
-![show](https://github.com/Berlin0610/CFTE2.0/video/2.gif) 
+![show](https://github.com/Berlin0610/CFTE2.0/blob/main/video/2.gif) 
 
 
 ### Example 3
 
-![show](https://github.com/Berlin0610/CFTE2.0/video/3.gif) 
+![show](https://github.com/Berlin0610/CFTE2.0/blob/main/video/3.gif) 
 
 
 ## Code
 
 For business inquiries, please contact Mr. CHEN Bolin (email: bolinchen3-c@my.cityu.edu.hk) if necessary.# CFTE_2.0
-# CFTE2
-# CFTE2.0
