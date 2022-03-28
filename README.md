@@ -29,4 +29,4 @@ Recently, learning-based video coding techniques have attracted substantial atte
 
 ## Code
 
-For business inquiries, please contact Mr. CHEN Bolin (email: bolinchen3-c@my.cityu.edu.hk) if necessary.
+The program is for commercial use so that the related code cannot be published. If necessary, please contact Mr. CHEN Bolin (email: bolinchen3-c@my.cityu.edu.hk) and we will help to test your data for academic development.
