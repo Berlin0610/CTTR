@@ -29,4 +29,4 @@ Recently, learning-based video coding techniques have attracted substantial atte
 
 ## Code
 
-For business inquiries, please contact Mr. CHEN Bolin (email: bolinchen3-c@my.cityu.edu.hk) if necessary.# CFTE_2.0
+For business inquiries, please contact Mr. CHEN Bolin (email: bolinchen3-c@my.cityu.edu.hk) if necessary.
