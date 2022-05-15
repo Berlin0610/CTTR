@@ -29,4 +29,6 @@ Recently, learning-based video coding techniques have attracted substantial atte
 
 ## Code
 
-The program is for commercial use so that the related code cannot be published. If necessary, please contact Mr. CHEN Bolin (email: bolinchen3-c@my.cityu.edu.hk) and we will help to test your data for academic development.
+Our previous training and inference code refers to CFTE published in DCC2022: https://github.com/alibaba-edu/temporal-evolution-inference-with-compact-feature-representation-for-talking-face-video-compression
+
+The latest code will be announced soon. If necessary, please contact Mr. CHEN Bolin (email: bolinchen3-c@my.cityu.edu.hk) and we will help to test your data for academic development.
