@@ -1,4 +1,4 @@
-# When Coding Meets Compact Key-map Representation: Ultra-low Bitrate Temporal Evolution Compression for Talking Face Video
+# WCompact Temporal Trajectory Representation for Talking Face Video Compression
 
 ## Bolin Chen&dagger;, Zhao Wang&sect;, Binzhe Li&dagger;, Shiqi Wang&dagger; and Yan Ye&sect;
 
@@ -6,7 +6,7 @@
 
 ## Abstract
 
-Recently, learning-based video coding techniques have attracted substantial attention since they have great prospects in removing the spatial-temporal redundancies and further shrinking coding bits. Especially for talking face videos owning rich structured information and prior knowledge, it is extremely hopeful to achieve ultra-low bandwidth compression via neural network. In this paper, we propose a talking face video compression framework based on spatial-temporal generative adversarial network. More specifically, the temporal evolution of talking faces, which is complex, non-linear and difficult to extrapolate, will be implicitly modelled in an end-to-end inference framework based upon very compact key-map representation. Therefore, the proposed framework can accommodate ultra-low bandwidth video communication and guarantee the quality of the reconstructed videos. Moreover, our proposed framework is further elegantly designed towards a complete compression system, which can accomplish the goals of accurate huge-facial-motion generation via dynamic reference refresh mechanism and multiple-resolutions video compression in the same model without any increase of model memory. Experimental results demonstrate that compared with the state-of-the-art video coding standard Versatile Video Coding (VVC) as well as the latest generative compression schemes, our proposed scheme is superior in terms of both objective and subjective quality assessment methods.  
+In this paper, we propose to compactly represent the nonlinear dynamics along the temporal trajectories for talking face video compression. More specifically, by projecting the frame into the high dimensional space, the temporal trajectories of talking face frames, which are complex, non-linear and difficult to extrapolate, are implicitly modelled in an end-to-end inference framework based upon very compact feature representation. As such, the proposed framework can accommodate ultra-low bandwidth video communication and guarantee the quality of the reconstructed videos. The proposed compression scheme is also robust and consistent against large head-pose motions, due to the delicately designed dynamic reference refresh and temporal stabilization mechanisms. Experimental results demonstrate that compared with the state-of-the-art video coding standard Versatile Video Coding (VVC) as well as the latest generative compression schemes, our proposed scheme is superior in terms of both objective and subjective quality assessment.
 
 ## Example Results (Similar Bitrate)
 
