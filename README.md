@@ -4,7 +4,7 @@
 
 ### &dagger; City University of Hong Kong and &sect; Alibaba Group
 
-####(The first two authors (Bolin Chen and Zhao Wang) contributed equally to this work.)
+#### (The first two authors (Bolin Chen and Zhao Wang) contributed equally to this work.)
 
 ## Abstract
 
