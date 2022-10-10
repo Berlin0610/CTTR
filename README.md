@@ -24,10 +24,6 @@ In this paper, we propose to compactly represent the nonlinear dynamics along th
 ![show](https://github.com/Berlin0610/CFTE2.0/blob/main/video/2.gif) 
 
 
-### Example 3
-
-![show](https://github.com/Berlin0610/CFTE2.0/blob/main/video/3.gif) 
-
 
 ## Code
 
