@@ -1,4 +1,4 @@
-# WCompact Temporal Trajectory Representation for Talking Face Video Compression
+# Compact Temporal Trajectory Representation for Talking Face Video Compression
 
 ## Bolin Chen&dagger;, Zhao Wang&sect;, Binzhe Li&dagger;, Shiqi Wang&dagger; and Yan Ye&sect;
 
