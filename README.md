@@ -27,6 +27,4 @@ In this paper, we propose to compactly represent the nonlinear dynamics along th
 
 ## Code
 
-Our previous training and inference code refers to CFTE published in DCC2022: https://github.com/alibaba-edu/temporal-evolution-inference-with-compact-feature-representation-for-talking-face-video-compression
-
-The latest code will be announced soon. If necessary, please contact Mr. CHEN Bolin (email: bolinchen3-c@my.cityu.edu.hk) and we will help to test your data for academic development.
+Our previous training and inference code refers to CFTE published in DCC2022: https://github.com/alibaba-edu/temporal-evolution-inference-with-compact-feature-representation-for-talking-face-video-compression. The latest code will be announced soon.
