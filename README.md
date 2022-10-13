@@ -16,16 +16,25 @@ In this paper, we propose to compactly represent the nonlinear dynamics along th
 
 ### Example 1
 
-![show](https://github.com/Berlin0610/CFTE2.0/blob/main/1.mp4) 
-
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/195520658-a6523e1b-dcdb-4be7-ad17-b7873eb9d26c.mp4)](https://user-images.githubusercontent.com/80899378/195520658-a6523e1b-dcdb-4be7-ad17-b7873eb9d26c.mp4)
 
 
 ### Example 2
 
-![show](https://github.com/Berlin0610/CFTE2.0/blob/main/2.mp4) 
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/195520422-9b9b6707-6462-4cb6-9d68-69c21d177c7b.mp4)](https://user-images.githubusercontent.com/80899378/195520422-9b9b6707-6462-4cb6-9d68-69c21d177c7b.mp4)
 
+### Example 3
 
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/195520569-6b8d6448-4b5a-4163-8a34-39fb1c9e5f87.mp4)](https://user-images.githubusercontent.com/80899378/195520569-6b8d6448-4b5a-4163-8a34-39fb1c9e5f87.mp4)
+
+### Example 4
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/195520584-253b4920-5e1b-441f-8bfd-b559c1a71d07.mp4)](https://user-images.githubusercontent.com/80899378/195520584-253b4920-5e1b-441f-8bfd-b559c1a71d07.mp4
+)
+
+### Example 5
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/195520593-93c9c358-4aad-45e1-ac36-1b664d1b2f83.mp4)](https://user-images.githubusercontent.com/80899378/195520593-93c9c358-4aad-45e1-ac36-1b664d1b2f83.mp4)
 
 ## Code
 
