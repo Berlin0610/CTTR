@@ -8,7 +8,7 @@
 
 ## Abstract
 
-In this paper, we propose to compactly represent the nonlinear dynamics along the temporal trajectories for talking face video compression. More specifically, by projecting the frame into the high dimensional space, the temporal trajectories of talking face frames, which are complex, non-linear and difficult to extrapolate, are implicitly modelled in an end-to-end inference framework based upon very compact feature representation. As such, the proposed framework can accommodate ultra-low bandwidth video communication and guarantee the quality of the reconstructed videos. The proposed compression scheme is also robust and consistent against large head-pose motions, due to the delicately designed dynamic reference refresh and temporal stabilization mechanisms. Experimental results demonstrate that compared with the state-of-the-art video coding standard Versatile Video Coding (VVC) as well as the latest generative compression schemes, our proposed scheme is superior in terms of both objective and subjective quality assessment.
+In this paper, we propose to compactly represent the nonlinear dynamics along the Temporal Trajectories for talking face Video Compression, namely TTVC. More specifically, by projecting the frame into the high dimensional space, the temporal trajectories of talking face frames, which are complex, non-linear and difficult to extrapolate, are implicitly modelled in an end-to-end inference framework based upon very compact feature representation. As such, the proposed framework can accommodate ultra-low bandwidth video communication and guarantee the quality of the reconstructed videos. The proposed compression scheme is also robust and consistent against large head-pose motions, due to the delicately designed dynamic reference refresh and temporal stabilization mechanisms. Experimental results demonstrate that compared with the state-of-the-art video coding standard Versatile Video Coding (VVC) as well as the latest generative compression schemes, our proposed scheme is superior in terms of both objective and subjective quality assessment.
 
 ## Example Results (Similar Bitrate)
 
@@ -36,6 +36,3 @@ In this paper, we propose to compactly represent the nonlinear dynamics along th
 
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/195520593-93c9c358-4aad-45e1-ac36-1b664d1b2f83.mp4)](https://user-images.githubusercontent.com/80899378/195520593-93c9c358-4aad-45e1-ac36-1b664d1b2f83.mp4)
 
-## Code
-
-Our previous training and inference code refers to CFTE published in DCC2022: https://github.com/alibaba-edu/temporal-evolution-inference-with-compact-feature-representation-for-talking-face-video-compression. The latest code will be announced soon.
