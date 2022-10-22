@@ -10,7 +10,7 @@
 
 In this paper, we propose to compactly represent the nonlinear dynamics along the Temporal Trajectories for talking face Video Compression, namely TTVC. More specifically, by projecting the frame into the high dimensional space, the temporal trajectories of talking face frames, which are complex, non-linear and difficult to extrapolate, are implicitly modelled in an end-to-end inference framework based upon very compact feature representation. As such, the proposed framework can accommodate ultra-low bandwidth video communication and guarantee the quality of the reconstructed videos. The proposed compression scheme is also robust and consistent against large head-pose motions, due to the delicately designed dynamic reference refresh and temporal stabilization mechanisms. Experimental results demonstrate that compared with the state-of-the-art video coding standard Versatile Video Coding (VVC) as well as the latest generative compression schemes, our proposed scheme is superior in terms of both objective and subjective quality assessment.
 
-## Example Results (Similar Bitrate)
+## Visual Examples (Similar Bitrate)
 
 ### For better visual comparison, please download the videos (mp4) from the "video" file.
 
