@@ -12,7 +12,7 @@ In this paper, we propose to compactly represent the nonlinear dynamics along th
 
 ## Quality Comparisons (Similar Bitrate)
 
-### For better quality comparison, please download the videos (mp4) from the "video" file.
+### For better quality comparisons, please download the videos (mp4) from the "video" file.
 
 ### Example 1
 
