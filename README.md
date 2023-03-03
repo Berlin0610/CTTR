@@ -14,28 +14,29 @@ In this paper, we propose to compactly represent the nonlinear dynamics along th
 
 ### For better quality comparisons, please download the videos (mp4) from the "video" file.
 
-
 ### Example 1
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/222747423-26c459a5-83bc-48cf-999b-a7fb0a3321bd.mp4)](https://user-images.githubusercontent.com/80899378/222747423-26c459a5-83bc-48cf-999b-a7fb0a3321bd.mp4)
+
+### Example 2
 
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/222747388-7943435b-628a-4d6c-949c-1a595ccdac15.mp4)](https://user-images.githubusercontent.com/80899378/222747388-7943435b-628a-4d6c-949c-1a595ccdac15.mp4)
 
 
-### Example 2
+### Example 3
 
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/222747398-f9bdea16-1b14-44a4-9ff5-e2b911216f0b.mp4)](https://user-images.githubusercontent.com/80899378/222747398-f9bdea16-1b14-44a4-9ff5-e2b911216f0b.mp4)
 
-### Example 3
+### Example 4
 
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/222747405-550462a3-6348-47d5-a031-f3e484f4ac6d.mp4)](https://user-images.githubusercontent.com/80899378/222747405-550462a3-6348-47d5-a031-f3e484f4ac6d.mp4)
 
-### Example 4
+### Example 5
 
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/222747411-d2bb0c0c-d1ca-49b5-be82-750b3d88f521.mp4)](https://user-images.githubusercontent.com/80899378/222747411-d2bb0c0c-d1ca-49b5-be82-750b3d88f521.mp4)
 
-### Example 5
+### Example 6
 
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/222747419-08da6610-1cf5-445f-bbde-394cc2b6a085.mp4)](https://user-images.githubusercontent.com/80899378/222747419-08da6610-1cf5-445f-bbde-394cc2b6a085.mp4)
 
-### Example 6
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/222747423-26c459a5-83bc-48cf-999b-a7fb0a3321bd.mp4)](https://user-images.githubusercontent.com/80899378/222747423-26c459a5-83bc-48cf-999b-a7fb0a3321bd.mp4)
